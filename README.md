@@ -1,6 +1,6 @@
 ### Hi there, I'm Oreanu 👋
 
-🔭 I am a software engineer based in Lagos, Nigeria
+🔭 I am a software engineer based in Lagos, Nigeria <br/>
 👯 I am currently open to collaborations 
 🥅 2021 Goals: I would love to contribute more to Open Source projects
 

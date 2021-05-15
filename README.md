@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Oreanu 👋 </h2>
+<h1> Hi there, I'm Oreanu 👋 </h1>
 
 🔭 I am a software engineer based in Lagos, Nigeria <br/>
 👯 I am currently open to collaborations <br/>

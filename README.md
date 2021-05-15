@@ -6,6 +6,12 @@
 
 <h1> Hi there, I'm Oreanu 👋 </h1>
 
-I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com).  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtMQO), give me a shout out [@_waylonwalker](https://twitter.com/_waylonwalker), give some ♥ on [DEV.to/waylonwalker](https://dev.to/waylonwalker), or sign up for my newsletter  at waylonwalker.com/newsletter  I would love to see you join.
+I am a software engineer based in Lagos, Nigeria, I build both both web and mobile applications, Leveraging on JavaScript, PHP, Kotlin and Dart. I love to solve problems and please feel free to reach out to me. I look forward to hearing from you
 
 ## 🚀 Technologies 
+
+
+<h1> Hi there, I'm Oreanu 👋 </h1>
+
+🔭 I am a software engineer based in Lagos, Nigeria <br/>
+🥅 2021 Goals: I would love to contribute more to Open Source projects

@@ -1,9 +1,8 @@
 ### Hi there, I'm Oreanu 👋
 
-- 🔭 I’m currently working on Machine Learning and Software Development
+- 🔭 I am a software engineer based in Lagos, Nigeria
 - 👯 I am currently open to collaborations 
 - 🥅 2021 Goals: I would love to contribute more to Open Source projects
-- ⚡ Fun fact: I love to music and movies 
 
 ### Connect with me:
 

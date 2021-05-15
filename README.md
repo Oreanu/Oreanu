@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
 <a href="mailto:olayemioreanu@gmail.com">
-  <img src="https://icons8.com/icon/Tsdefp8FjSAJ/mail" />
+  <img src="https://d4f8k9m7.rocketcdn.me/cm_wp/wp-content/uploads/2019/04/gmail-4.png" />
 </a>&nbsp;&nbsp;
 
 

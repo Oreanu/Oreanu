@@ -8,10 +8,3 @@
 
 I am a software engineer based in Lagos, Nigeria, I build both both web and mobile applications, Leveraging on JavaScript, PHP, Kotlin and Dart. I love to solve problems and please feel free to reach out to me. I look forward to hearing from you
 
-## 🚀 Technologies 
-
-
-<h1> Hi there, I'm Oreanu 👋 </h1>
-
-🔭 I am a software engineer based in Lagos, Nigeria <br/>
-🥅 2021 Goals: I would love to contribute more to Open Source projects

@@ -15,7 +15,6 @@
 <a href="mailto:olayemioreanu@gmail.com">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-[<img align="left" alt="Oreanu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/oreanu-olayemi-b45517116/)
 
 
 ## 🚀 Technologies 

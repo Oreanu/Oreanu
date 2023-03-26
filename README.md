@@ -14,5 +14,7 @@ I am a software engineer based in Lagos, Nigeria, I am currently exploring appli
 
 
 ![Oreanu GitHub stats](https://github-readme-stats.vercel.app/api?username=oreanu&include_all_commits=true&show_icons=true&theme=transparent&show_owner=true&count_private=true&hide_rank=false&hide=contribs,prs,issues)
+![](https://komarev.com/ghpvc/?username=oreanu)
+
 
 

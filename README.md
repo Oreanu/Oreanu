@@ -12,3 +12,7 @@ I am a software engineer based in Lagos, Nigeria, I am currently exploring appli
 
 <img  src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
 
+
+![Oreanu GitHub stats](https://github-readme-stats.vercel.app/api?username=oreanu&include_all_commits=true&show_icons=true&theme=transparent&show_owner=true&count_private=true&hide_rank=false&hide=contribs,prs,issues)
+
+

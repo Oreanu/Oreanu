@@ -1,6 +1,6 @@
 <h1> Hi there, I'm Oreanu 👋 </h1>
 
-I am a software engineer based in Lagos, Nigeria, I am currently exploring applications built on web3 and very much interested in the application of machine-learning algorithms to Education, Healthcare & Energy.I have great experience in both Mobile and Web development leveraging JavaScript, Python, Kotlin and Dart. I love to solve problems. Please feel free to reach out to me. I look forward to hearing from you
+I am a software engineer based in Lagos, Nigeria, I am currently exploring applications built on web3 and very much interested in the application of machine-learning algorithms to Education, Healthcare & Advertising.I have great experience in both Mobile and Web development leveraging JavaScript, Python, Kotlin and Dart. I love to solve problems. Please feel free to reach out to me. I look forward to hearing from you
 
 <p >
 <a href="https://twitter.com/its_oreanu"><img height="30" src="https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/twitter_logo_blue.png.twimg.768.png"></a>&nbsp;&nbsp;

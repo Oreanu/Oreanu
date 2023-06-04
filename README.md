@@ -15,6 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oreanu&show_icons=true&locale=en&layout=compact" alt="oreanu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oreanu&show_icons=true&locale=en" alt="oreanu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oreanu&show_icons=true&locale=en&count_private=true" alt="oreanu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oreanu&" alt="oreanu" /></p>

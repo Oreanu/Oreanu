@@ -1,17 +1,20 @@
-<h1> Hi there, I'm Oreanu 👋 </h1>
+<h1 align="center">Hi there, I'm Oreanu! </h1>
+<h3 align="center">An ardent aficionado of machine learning and a versatile full stack engineer.</h3>
 
-I am a software engineer based in Lagos, Nigeria, I am currently exploring applications built on web3 and very much interested in the application of machine-learning algorithms to Education, Healthcare & Advertising.I have great experience in both Mobile and Web development leveraging JavaScript, Python, Kotlin and Dart. I love to solve problems. Please feel free to reach out to me. I look forward to hearing from you
+- 💻 I create engaging and user-friendly digital experiences through the implementation of intuitive interfaces and seamless interactions **@Montech**
 
-<p >
-<a href="https://twitter.com/its_oreanu"><img height="30" src="https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/twitter_logo_blue.png.twimg.768.png"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/its_oreanu"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/oreanu-olayemi-b45517116/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+- 🚀 Whether it's building microservices, designing APIs, or optimizing database performance, I enjoy the challenge of creating seamless end-to-end solutions. My goal is to deliver exceptional user experiences while ensuring the underlying systems are secure, scalable, and highly available.
+
+- 💬 Let's engage in captivating discussions on **AI and blockchain integration and scaling systems as we shape the future of decentralized intelligence and explore the boundless possibilities together!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/its_oreanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_oreanu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oreanu-olayemi-b45517116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oreanu" height="30" width="40" /></a>
 </p>
 
-## 🚀 Technologies 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oreanu&show_icons=true&locale=en&layout=compact" alt="oreanu" /></p>
 
-<img  src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oreanu&show_icons=true&locale=en" alt="oreanu" /></p>
 
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oreanu&" alt="oreanu" /></p>

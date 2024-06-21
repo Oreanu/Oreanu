@@ -1,6 +1,9 @@
 <h1 align="center">Hi there, I'm Oreanu! </h1>
 <h3 align="center">An ardent aficionado of machine learning and a versatile full stack engineer.</h3>
 
+
+- 👨🏽‍💻 Msc Artificial Intelligence from University of Essex, United Kingdom.
+
 - 💻 I create engaging and user-friendly digital experiences through the implementation of intuitive interfaces and seamless interactions 
 
 - 🚀 Whether it's building microservices, designing APIs, or optimizing database performance, I enjoy the challenge of creating seamless end-to-end solutions. My goal is to deliver exceptional user experiences while ensuring the underlying systems are secure, scalable, and highly available.
